@@ -1,5 +1,4 @@
 import * as Three from "three";
-import { Geometry } from "three/examples/jsm/deprecated/Geometry";
 import './style.css';
 
 let scene;
